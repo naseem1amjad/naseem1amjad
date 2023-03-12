@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naseem Amjad
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning latest technologies
+- 👀 I’m interested in Programming and designing Software Solutions
+- 🌱 I’m currently learning latest technologies and working of software projects.
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me email to naseem[at]technologist.com
 
